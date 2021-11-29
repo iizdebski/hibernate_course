@@ -1,8 +1,6 @@
 # hibernate_course
-<<<<<<< HEAD
 
 1_introduction_to_hibernate5
-<<<<<<< HEAD
 2_session_factory_creation_in_hibernate5
 3_create_sessionFactory_in_hibernate5_without_hibernate.cfg.xml
 4_distribution_zip_download
@@ -16,35 +14,6 @@
 12_why_to_use_hibernate_dialect
 13_hibernate_example_with_service_and_DAO_layer_part1
 14_hibernate_example_with_service_and_DAO_layer_part2
-=======
-
-2_session_factory_creation_in_hibernate5
-
-3_create_sessionFactory_in_hibernate5_without_hibernate.cfg.xml
-
-4_distribution_zip_download
-
-5_hibernate5_distribution_binary_details
-
-6_understanding_hibernate_configuration_file
-
-7_hibernate5_creating_an_entity_class_example
-
-8_hibernate5_save_and_persist_an_entity_example
-
-9_hibernate5_save_persist_saveOrUpdate_example
-
-10_hibernate_CRUD_example
-
-11_hibernate_dirty_checking_mechanism
-
-12_why_to_use_hibernate_dialect
-
-13_hibernate_example_with_service_and_DAO_layer_part1
-
-14_hibernate_example_with_service_and_DAO_layer_part2
-
->>>>>>> e0e96d5872b80665462380dcea17efbe86478de8
 15_hibernate_hbm2ddl_properties
 16_hibernate_generationType.AUTO_primary_key_generation_strategy
 17_hibernate_generationType.IDENTITY_primary_key_generation_strategy
@@ -60,11 +29,7 @@
 27_onetomany_mapping_in_hibernate
 28_onetomany_and_manytoone_mapping_in_hibernate
 29_manytomany_mapping_in_hibernate
-<<<<<<< HEAD
-30_@JoinTable_in_manytomany_mapping_in_hibernate
-=======
 30_@JoinTable_in_manytomany_mapping_in_ hibernate
->>>>>>> e0e96d5872b80665462380dcea17efbe86478de8
 31_cascadeType.PERSIST_in_JPA_hibernate
 32_cascadeType.REMOVE_in_JPA_hibernate
 33_jpa_cascade_types
@@ -105,23 +70,6 @@
 68_hibernate5_tuple_criteria_queries_tuple_criteria_queries_in_hibernate
 69_hibernate5_selecting_values_from_mutilple_roots_in_CriteriaQuery
 70_hibernate5_join_query_using_CriteriaQuery_in_Hibernate
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> e0e96d5872b80665462380dcea17efbe86478de8
 71_hibernate5_eager_and_lazy_fetch_using_CriteriaQuery
 72. Hibernate 5:CriteriaBuilder Parameter Example
 73. Hibernate 5:Aggregate Functions in CriteriaBuilder_PART1
@@ -187,10 +135,4 @@
 133. Implementing optimistic locking using hibernate
 134. Hibernate Event listener example
 135. Entity Auditing with Hibernate Envers Exmaple
-<<<<<<< HEAD
 136. Hibernate Envers–Query data from your audit log tables
-=======
-136. Hibernate Envers–Query data from your audit log tables
->>>>>>> e0e96d5872b80665462380dcea17efbe86478de8
-=======
->>>>>>> 8a9a586ae92e701b1e92cdf1e845f1dae0cf3181

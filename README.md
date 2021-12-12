@@ -1,7 +1,7 @@
 # hibernate_course
 
-1_introduction_to_hibernate5
-2_session_factory_creation_in_hibernate5
+* **1_introduction_to_hibernate5**
+* 2_session_factory_creation_in_hibernate5
 3_create_sessionFactory_in_hibernate5_without_hibernate.cfg.xml
 4_distribution_zip_download
 5_hibernate5_distribution_binary_details

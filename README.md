@@ -1,4 +1,4 @@
-# hibernate_course
+# Hibernate_Course
 
 * **1_introduction_to_hibernate5**
 * **2_session_factory_creation_in_hibernate5**

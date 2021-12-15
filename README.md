@@ -16,7 +16,7 @@
 * **14_hibernate_example_with_service_and_DAO_layer_part2**
 * **15_hibernate_hbm2ddl_properties**
 * **16_hibernate_generationType.AUTO_primary_key_generation_strategy**
-* **17_hibernate_generationType.IDENTITY_primary_key_generation_strategy*
+* **17_hibernate_generationType.IDENTITY_primary_key_generation_strategy**
 * **18_hibernate_generationType.SEQUENCE_primary_key_generation_strategy**
 * **19_hibernate_generationType.TABLE_primary_key_generation_strategy**
 * **20_value_types_and_embedding_objects_in_hibernate**
